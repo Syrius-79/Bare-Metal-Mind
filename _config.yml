@@ -1,4 +1,3 @@
 collections:
   guide:
     output: true
-Next: How to verify your system is actually using acceleration — and not pretending.
